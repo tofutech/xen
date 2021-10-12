@@ -16,3 +16,16 @@
 **-Light/dark variant**
 
 # Installation 
+
+**Requirements**'
+
+-[Vala-panel-appmenu](https://github.com/rilian-la-te/vala-panel-appmenu)
+
+-Plank
+
+1. Copy themes and icons to either ~/.icons and ~/.themes, or to the root directories, respectively. 
+
+2. Copy .config, .local, and .scripts to the user folder. 
+
+
+# Install script coming soon.
