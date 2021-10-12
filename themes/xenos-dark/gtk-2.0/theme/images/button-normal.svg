@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" version="1.1" viewBox="0 0 5.8208 5.8208" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="a" x1="7" x2="7" y1="2" y2="20" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity=".02" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset=".69"/>
+   <stop stop-opacity="0" offset=".7"/>
+   <stop stop-opacity=".05" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path transform="scale(.26458)" d="m3 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-16zm-0.0039062 1.002h16.006c0.57024 0 0.99609 0.42779 0.99609 0.99805v16.004c0 0.57026-0.42586 0.99609-0.99609 0.99609h-16.006c-0.57024 0-0.99609-0.42584-0.99609-0.99609v-16.004c0-0.57026 0.42586-0.99805 0.99609-0.99805z" opacity=".35"/>
+ <path d="m0.79272 0.52968c-0.15088 0-0.26355 0.11319-0.26355 0.26407v4.2344c0 0.15088 0.11267 0.26355 0.26355 0.26355h4.2349c0.15088 0 0.26355-0.11267 0.26355-0.26355v-4.2344c0-0.15088-0.11267-0.26407-0.26355-0.26407z" fill="url(#a)"/>
+ <rect x="-7.3321" y=".14125" width="5.2917" height="5.2917" rx=".52917" ry=".52917" fill="#f0f"/>
+ <path transform="scale(.26458)" d="m2.9961 2.002c-0.57024 0-0.99609 0.42779-0.99609 0.99805v1c0-0.57025 0.42586-0.99805 0.99609-0.99805h16.006c0.57024 0 0.99609 0.42779 0.99609 0.99805v-1c0-0.57026-0.42586-0.99805-0.99609-0.99805z" fill="#fff" opacity=".05"/>
+ <path transform="scale(.26458)" d="m1 19v1c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-1c0 1.1067-0.88994 1.9979-1.9961 2-6.77e-4 1e-6 -0.0013 0-2e-3 0-6.62e-4 1e-6 -0.0013 0-2e-3 0h-16c-0.00265 0-0.00517 1e-5 -0.00781 0-1.1043-0.004251-1.9922-0.89465-1.9922-2z" opacity=".1"/>
+</svg>

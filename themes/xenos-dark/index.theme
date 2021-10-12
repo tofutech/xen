@@ -1,0 +1,12 @@
+[Desktop ]
+Type=X-GNOME-Metatheme
+Name=xenOS Dark
+Comment=Official xenOS Dark Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=xenOS Dark
+MetacityTheme=xenOS Dark
+IconTheme=xenicons-dark
+CursorTheme=Luna
+CursorSize=24

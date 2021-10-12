@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" viewBox="0 0 4.2333 4.2333" xmlns="http://www.w3.org/2000/svg">
+ <path d="m2.2676 0.27251-0.30282 0.25941 0.68316 0.79685-0.68316 0.79737 0.30282 0.25735 0.64285-0.74931 0.64234 0.74931 0.30282-0.25735-0.68316-0.79737 0.68316-0.79685-0.30282-0.25941-0.64234 0.74982z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity="0" shape-rendering="auto" solid-color="#000000" stroke-width=".3974" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <rect x="1.8521" y="1.0525" width="2.1167" height=".52917" opacity="0" stroke-width=".3974"/>
+ <ellipse cx="2.1167" cy="2.1167" rx=".52916" ry=".52916" fill="#333"/>
+</svg>

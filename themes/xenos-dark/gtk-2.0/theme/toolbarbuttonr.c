@@ -1,0 +1,39 @@
+style"toolbarbutton"{
+GtkButton::inner-border={3,3,3,3}
+xthickness=1
+ythickness=1
+engine"pixmap"{
+image{
+function=BOX
+shadow=OUT
+state=NORMAL
+detail="button"
+overlay_file="images/button-normal.svg"
+overlay_border={5,5,5,5}
+overlay_stretch=TRUE}
+image{
+function=BOX
+shadow=OUT
+state=PRELIGHT
+detail="button"
+overlay_file="images/none.svg"
+overlay_stretch=FALSE}
+image{
+function=BOX
+shadow=IN
+detail="button"
+overlay_file="images/button-pressed.svg"
+overlay_border={5,5,5,5}
+overlay_stretch=TRUE}
+image{
+function = BOX
+recolorable = TRUE
+detail = "buttondefault"
+file="images/colorspecific/button-default.svg"
+border={5,5,5,5}
+stretch=TRUE}
+image{
+function=FOCUS
+file="images/none.svg"
+stretch=FALSE}}}
+widget_class"*<GtkToolbar>*Button"style"toolbarbutton"
