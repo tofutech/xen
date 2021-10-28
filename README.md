@@ -31,3 +31,37 @@ Based heavily on elementary OS, and the classic Aqua theme (Leopard-era)
 
 
 # Install script coming soon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=iik25wqIuFo
